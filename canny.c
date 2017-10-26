@@ -1,3 +1,4 @@
+//gcc -g -lm -o canny canny.c
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
